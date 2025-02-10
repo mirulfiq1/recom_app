@@ -1,0 +1,23 @@
+# Dependencies
+/node_modules
+/client/node_modules
+/server/php/vendor
+/server/python/__pycache__
+/server/python/venv
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build files
+/client/build
+/client/dist
+
+# IDE files
+.vscode
+.idea
+
+# System files
+.DS_Store
+Thumbs.db
